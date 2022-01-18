@@ -16,7 +16,7 @@ OBJETIVOS:
 
 1. Aplicar los conocimietos obtenidos en clases
 
-2.Comprender de mejor manera la corriente y voltaje alternos 
+2. Comprender de mejor manera la corriente y voltaje alternos 
 
 3. Poder enteder y resolver circuitos capacitivos 
 
