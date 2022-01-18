@@ -43,11 +43,31 @@ capitulo 11
 
 capitulo 12
 
+![image](https://user-images.githubusercontent.com/93835463/149889957-1576d1a4-74fd-4bcd-b8ff-526b7b7fef04.png)
+![image](https://user-images.githubusercontent.com/93835463/149889995-b8f5ffd5-a283-4f0b-a548-20b6c7bfe4b2.png)
+![image](https://user-images.githubusercontent.com/93835463/149890013-8ef717bc-4f9f-4f04-9aa6-3d7148cda30b.png)
+![image](https://user-images.githubusercontent.com/93835463/149890031-6266013c-56fd-4496-a299-2487f3d8ab3f.png)
+![image](https://user-images.githubusercontent.com/93835463/149890043-43811ba7-060a-45cb-834c-772a3023e4ec.png)
+![image](https://user-images.githubusercontent.com/93835463/149890614-d067d4a1-1c5d-4b01-b32c-631051f241c7.png)
+![image](https://user-images.githubusercontent.com/93835463/149890062-92c20b18-91cc-443a-9eda-129d27a4b245.png)
+![image](https://user-images.githubusercontent.com/93835463/149890259-1d098943-d6dc-4aa0-834f-7f243198976a.png)
+![image](https://user-images.githubusercontent.com/93835463/149890276-459bc24e-6565-4e95-848a-522668aa166f.png)
+![image](https://user-images.githubusercontent.com/93835463/149891192-c905e3ed-f163-4264-b447-419fb5ab112c.png)
+![image](https://user-images.githubusercontent.com/93835463/149891212-91407ed7-c8db-4485-a51a-36f393204ea7.png)
+![image](https://user-images.githubusercontent.com/93835463/149891236-0f855b76-73b7-4676-993e-c51eb6e8f7c2.png)
+
 VIDEOS:
 https://www.youtube.com/watch?v=buiF8UlBJ8I
 
+https://www.youtube.com/watch?v=-4mKhk7fW88
+
+https://www.youtube.com/watch?v=qNt9gAvk1DU
+
 CONCLUSIONES:
 
+Durante este capitulo estudiamos las señales electricas que varian con el tiempo, buscando asi desarrollar nuestros conocimientos sobre estos temas y asi aprender a usar el osciloscopio 
+
+Aprendimos que son los capacitores y sus caracteristicas, sus funciones y los calculos necesarios para adaptarlos a nuevos circuitos para proximas practicas
 
 BIBLIOGRAFÍA:
 
